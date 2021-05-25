@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil-thole
 - 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning solidit
+- 🌱 I’m currently learning solidity
 - 📫 How to reach me sahilt1607@gmail.com
 
 <!---
